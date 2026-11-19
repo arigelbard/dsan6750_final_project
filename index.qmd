@@ -1,12 +1,28 @@
 ---
 title: final_project
 authors:
-  - name: Norah Jones
-    affiliation: The University
+  - name: Ari Gelbard
+    affiliation: Georgetown University
     roles: writing
     corresponding: true
 bibliography: references.bib
 ---
+
+## Literature Review 
+
+Outline:
+- Paragraph 1: History and motivation
+- Paragraphs 2-3: Existing research (maybe one paragraph on regular analysis and another on spatial)
+- Paragraph 4: What I'm doing differently
+
+On March 24, 1976, the Armed Forces in Argentina overthrew the constitutional government led by María Estela Martínez de Perón and established a military dictatorship over the country (Aguila, 2023). In the years leading up to the coup, political violence increased due to a combination of armed conflict, state-sanctioned repression, and an economic crisis. Leftist guerrilla groups were carrying out armed attacks, the government had authorized the military to “annihilate subversion” throughout the country, and a failed economic adjustment in 1975 had triggered rising inflation and a recession (Águila, 2023; Marongiu, 2006). By the time the armed forces took power, the government had almost no public support or political legitimacy, and there was little to no resistance to the coup (Águila, 2023). Many Argentines initially received the coup with a sense of relief. After years of political violence and economic instability, broad sectors of society, particularly the middle classes, viewed military rule as a response to their demand for order and stability. Popular magazines reinforced this view by framing the coup as a “necessary” solution to the political crisis and portraying guerrilla violence as a threat to society as a whole (Gomes & Robertini, 2026). Behind this image of order, however, the junta carried out a campaign of clandestine repression against anyone it considered "subversive," kidnapping people, holding and torturing them in secret detention centers, and refusing to acknowledge that they had ever been detained (Calveiro, 1998). Over time, this support eroded. Mothers of the disappeared began publicly demanding information about their children, the economy fell into another severe crisis, and Argentina’s defeat by the United Kingdom in the 1982 Malvinas (Falklands) War destroyed what remained of the regime’s legitimacy, forcing it to call elections and return power to a civilian government in December 1983 (Franco, 2018). After the return to democracy, the new government created the National Commission on the Disappearance of Persons (CONADEP) to investigate the fate of the disappeared, and its work, along with that of later state registries, has made it possible to identify and locate hundreds of the detention centers used during the dictatorship (CONADEP, 1986; RUVTE, n.d.).
+
+<!-- The violence that led to the coup is closely tied to Peronism, the political movement founded by Juan Domingo Perón, who served as Argentina’s president from 1946 to 1955. Peronism is generally described as a national-populist movement built on bringing the working class into national politics for the first time, and Perón’s governments expanded wages, labor rights, and the power of trade unions (Wiley-Blackwell Encyclopedia, n.d.). After a military coup removed Perón in 1955, the movement was banned from politics for nearly two decades (Rostica, 2011). -->
+
+
+
+https://www.nuso.org/articulo/308-la-ultima-dictadura-militar-argentina/
+
 
 ## Section
 This is a simple placeholder for the manuscript's main document [@knuth84].
