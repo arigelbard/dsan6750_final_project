@@ -8,6 +8,16 @@ authors:
 bibliography: references.bib
 ---
 
+## Abstract
+On March 24, 1976, the Armed Forces in Argentina overthrew the constitutional government led by María Estela Martínez de Perón and established a military dictatorship over the country. Over the next few years, the government ran a systematic campaign of forced disappearance in which thousands of people were taken to clandestine detention centers (CCDs) spread across the country. This project will use spatial point pattern analysis to investigate whether the locations of these centers simply tracked where people lived, or whether they reflect where the government saw political threats based on the political ideology of an area, or something else. 
+
+The main dataset is the 2014 Registro Unificado de Victimas del Terrorismo del Estado (RUVTE) registry of CCDs, compiled by Argentina's Ministry of Justice and Human Rights. It contains 676 sites with latitude and longitude, of which 624 are marked as corroborated. For political ideology, the data comes from Lupu & Stokes' 2009 paper "The Social Bases of Political Parties in Argentina, 1912-2003" which has data on election results by departamento (similar to a US county) over time. I also have data from the RUVTE on the victims themselves, however, precise locations of disappearances are not known so this data would be aggregated at the departamento level. 
+
+To start, I will focus on the greater Buenos Aires area which has 52 CCDs, and then, if time allows, expand to other provinces like Tucuman, which has an unusually high concentration of centers. I will map CCD locations and compute global and local Moran’s I on departamento-level CCD rates per capita. For the formal test, I will estimate the intensity function under a null model in which CCD intensity depends only on population density. I will run 999 Monte Carlo simulations of that model and compare the observed intensity and the inhomogeneous pair correlation function against the simulation. Then, I will add the political covariates to see whether they account for the remaining structure. Victim data can potentially be used to check whether centers and victims are distributed alike.
+
+This analysis will have several limitations. The registry likely undercounts sites, and discovery may be biased toward areas with more survivor testimony. Many CCDs operated inside pre-existing police and military facilities, so their locations may reflect existing infrastructure rather than deliberate placement. Also, the most recent electoral data predates the dictatorship (1973), and Peronist vote share is an imperfect proxy for ideology given the movement’s internal divisions. 
+
+
 ## Literature Review 
 
 Outline:
